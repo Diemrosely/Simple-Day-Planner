@@ -17,6 +17,6 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
-
+Link to Work Day Scheduler : https://diemrosely.github.io/Simple-Day-Planner/.
 
 ![dayplanner.png](./Assets/dayplanner.png)
