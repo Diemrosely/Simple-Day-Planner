@@ -2,6 +2,11 @@
 ## Work Day Scheduler: Third-Party APIs.
 ### Work Day Scheduler: Third-Party APIs.
 #### Work Day Scheduler: Third-Party APIs.
+**Bold**
+*Italic*
+~StrikeThrough~
+**Bold_And_Italics**
+
 
 This is a simple calendar application that allows the user to save events in their local storage for each hour of the working day.  This app will run in the browser and feature dynamically updated HTML, CSS and powered by the one and only jQuery.
 
